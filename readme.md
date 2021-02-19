@@ -9,11 +9,11 @@ Once you hit 'Start timer' on the application, it starts a timer that runs repea
 
 ## Screenshots
 1. Application
-    <img src="start_timer.png"
+    <img src="master/start_timer.png"
      alt="start timer application"
      style="float: center; margin: 15px;" />
 
 2. Notification in system tray
-    <img src="notification.png"
+    <img src="master/notification.png"
      alt="Notification"
      style="float: center; margin: 15px;" />
