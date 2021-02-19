@@ -8,12 +8,12 @@ Once you hit 'Start timer' on the application, it starts a timer that runs repea
 
 
 ## Screenshots
-1. Application
+1. Application <br>
     <img src="https://github.com/sncvikas/Timer_for_eye_safety/blob/master/start_timer.PNG"
      alt="start timer application"
      style="float: center; margin: 15px;" />
 
-2. Notification in system tray
-    <img src=https://github.com/sncvikas/Timer_for_eye_safety/blob/master/notification.PNG"
+2. Notification in system tray <br>
+    <img src="https://github.com/sncvikas/Timer_for_eye_safety/blob/master/notification.PNG"
      alt="Notification"
      style="float: center; margin: 15px;" />
