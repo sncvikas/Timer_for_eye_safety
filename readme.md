@@ -13,7 +13,8 @@ Once you hit 'Start timer' on the application, it starts a timer that runs repea
      alt="start timer application"
      style="float: center; margin: 15px;" />
 
+
 2. Notification in system tray <br>
-    <img src="https://github.com/sncvikas/Timer_for_eye_safety/blob/master/notification.PNG"
+   <img src="https://github.com/sncvikas/Timer_for_eye_safety/blob/master/notification.PNG"
      alt="Notification"
      style="float: center; margin: 15px;" />
