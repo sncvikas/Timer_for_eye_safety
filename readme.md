@@ -6,6 +6,10 @@
 ## How it works?
 Once you hit 'Start timer' on the application, it starts a timer that runs repeatedly until you, and it shows a notification at the bottom of the screen every 20 minutes reminding you to look away<br><br>
 
+## Installation
+1.  Dowloand the jar '202020_eye_safety.jar' to your desktop.
+2. Double click to launch the application.
+
 
 ## Screenshots
 1. Application <br>
